@@ -1,4 +1,4 @@
-# DuodooBMS用户向导
+# DuodooBMS用户指引
 
 #### 介绍
 
