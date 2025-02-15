@@ -3,21 +3,14 @@
 #### 介绍
 DuodooBMS客户成功
 
-#### 软件架构
-软件架构说明
+../duodoo-bms-success/official   官方资源[技术文档、白皮书、客户案例]
 
+../duodoo-bms-success/docs    技术资料[侧重技术资料（如API文档、开发指南）与案例结合]
 
-#### 安装教程
+../duodoo-bms-success/solutions   行业方案[将技术文档按行业分类，搭配对应案例]
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+../duodoo-bms-success/cases   客户案例[展示客户成果，辅以技术方案说明]
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
@@ -25,13 +18,3 @@ DuodooBMS客户成功
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
