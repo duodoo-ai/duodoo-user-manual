@@ -1,7 +1,6 @@
-# duodoo-user-manual
+# DuodooBMS用户向导
 
 #### 介绍
-DuodooBMS用户指北
 
 ../duodoo-user-manual/official   官方资源[技术文档、白皮书、客户案例]
 
