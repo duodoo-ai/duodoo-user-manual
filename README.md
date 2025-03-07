@@ -2,6 +2,8 @@
 
 #### 介绍
 
+../duodoo-user-manual/vision   愿景
+
 ../duodoo-user-manual/official   官方资源[技术文档、白皮书、客户案例]
 
 ../duodoo-user-manual/docs    技术资料[侧重用户手册、技术资料（如API文档、开发指南）与案例结合]
