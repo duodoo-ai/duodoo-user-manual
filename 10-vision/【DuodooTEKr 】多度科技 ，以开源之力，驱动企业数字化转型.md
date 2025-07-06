@@ -61,21 +61,13 @@
 
 - Github：
 
-  - 犀数RhinoDataCore：https://github.com/duodoo-ai/rhino-data-core.git  (基础数据采集与分析)
-  - 犀数RhinoDataEdge：https://github.com/duodoo-ai/rhino-data-edge.git  (边缘计算模块 对接SKF IMX-16网关)
-  - 犀数RhinoDataPrime：https://github.com/duodoo-ai/rhino-data-prime.git  (高级预测性维护+专家支持)
-  - 犀数RhinoDataInsight：https://github.com/duodoo-ai/rhino-data-insight.git  (AI诊断模块 集成DeepSeek模型)
-  - 犀数RhinoDataChain：https://github.com/duodoo-ai/rhino-data-chain.git  (数犀智链 供应链业财一体化)
-  - 犀数RhinoDataNexus：https://github.com/duodoo-ai/rhino-data-nexus.git  (第三方接口模组)
+  - 工业物联网一体化平台：https://gitee.com/duodoo-ai/duodoo-tekr-flexo.git 
+  - 供应链业财制造一体化：https://gitee.com/duodoo-ai/duodoo-tekr-o1.git  
 
 - Gitee：
 
-  - 犀数RhinoDataCore：https://gitee.com/duodoo-ai/rhino-data-core.git  (基础数据采集与分析)
-  - 犀数RhinoDataEdge：https://gitee.com/duodoo-ai/rhino-data-edge.git  (边缘计算模块 对接SKF IMX-16网关)
-  - 犀数RhinoDataPrime：https://gitee.com/duodoo-ai/rhino-data-prime.git  (高级预测性维护+专家支持)
-  - 犀数RhinoDataInsight：https://gitee.com/duodoo-ai/rhino-data-insight.git  (AI诊断模块 集成DeepSeek模型)
-  - 犀数RhinoDataChain：https://gitee.com/duodoo-ai/rhino-data-chain.git  (数犀智链 供应链业财一体化)
-  - 犀数RhinoDataNexus：https://gitee.com/duodoo-ai/rhino-data-nexus.git  (第三方接口模组)
+  - 工业物联网一体化平台：https://github.com/duodoo-ai/duodoo-tekr-flexo.git 
+  - 供应链业财制造一体化：https://github.com/duodoo-ai/duodoo-tekr-o1.git  
 
 **多度科技，与您共启数字化转型新篇章！**  
 
