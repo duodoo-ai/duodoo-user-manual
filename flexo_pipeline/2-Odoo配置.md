@@ -7,9 +7,9 @@
 [options]
 ; 强制使用数据库会话存储
 ; 使用文件会话存储（因为我们现在自定义了数据库存储）
-session_store = file
-session_type = file
-session_storage = db
+session_store = file    ; 确保使用文件存储
+session_type = file     ; 确保使用文件存储
+session_storage = db      ; 确保使用数据库存储
 
 ; 确保基础模块正确加载
 init = base,web
@@ -17,21 +17,21 @@ init = base,web
 ; 会话超时设置（秒）
 session_timeout = 86400  ; 24小时
 
-admin_passwd = 1234qwer
+admin_passwd = 1234qwer     ; 管理员密码
 addons_path = /home/jason/app/odoo18/src/addons, /home/jason/app/odoo18/src/odoo/addons, duodoo-tekr-flexo
 
-db_host = 127.0.0.1
-db_name = false
-db_password = 1234qwer    ; 1234qwer
-db_port = 5432
-db_user = odoo
+db_host = 127.0.0.1 ; 实际数据库主机地址
+db_name = false ; 实际数据库名称
+db_password = 1234qwer    ; 实际数据库密码
+db_port = 5432      ; 实际数据库端口
+db_user = odoo  ; odoo ; 实际数据库用户名
 data_dir = /home/jason/app/runtime/odoo18_cert
 dbfilter=flexo_pipeline ; 重点的重点，只加载指定的数据库，其他的数据库加载会导致接口报错
 
 ; 启用调试模式
 debug_mode = True
 
-xmlrpc_port = 3000
+xmlrpc_port = 3000  ; 确保与前端的XML-RPC端口匹配
 cors_origins = *  # 明确指定允许的源
 csrf_origin_check = False   ; 禁用 CSRF 保护（仅对 API 路由）
 
@@ -50,16 +50,16 @@ wkhtmltopdf_path = /usr/bin/wkhtmltopdf
 auth_admin_passkey_password = admin@098iop
 
 ; 日志配置 - 合并所有 log_handler 到一行
-log_level = debug
+log_level = debug            ; 调试级别
 log_handler = :DEBUG,oak_project:DEBUG,oak_core:DEBUG
 ; logfile = /home/jason/app/odoo18/log/odoo-server.log
 ; logrotate = True
 
 
 
-geoip_city_db = False
-geoip_country_db = False
-geoip_proxy_db = False
-geoip_database_path = /usr/share/GeoIP
+geoip_city_db = False         ; 禁用 GeoIP 城市数据库
+geoip_country_db = False        ; 禁用 GeoIP 国家数据库
+geoip_proxy_db = False         ; 禁用 GeoIP 代理数据库
+geoip_database_path = /usr/share/GeoIP      ; GeoIP 数据库路径
 
 
