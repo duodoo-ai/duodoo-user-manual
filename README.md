@@ -1,12 +1,12 @@
-### 公司位置：欧度软件南京燕子矶研学基地（江苏省南京市）
+公司位置：欧度软件南京燕子矶研学基地（江苏省南京市）
 
-#### 公司电话：18951631470
+联系电话：189 5163 1470
 
-#### 欧度软件 | DuodooTEKr | 多度科技 | 南京欧度软件 
+#Odoo源码交付 #SKF振动诊断 #私有化部署 #工贸系统定制 #企业级定制开发
 
 ---------------------
 
-> 系统终身免费｜服务按需定制
+### > 系统终身免费｜服务按需定制
 >
 ---------------------
 多度信息科技（南京）有限公司
@@ -23,7 +23,7 @@
 
 ⭐ 南京贸易案例：4年深度应用开发
 
-南京做软件的茂名人，甩友蝶年费Call我！
+南京做企业软件的茂名人，甩友蝶年费Call我！
 
 官方网站：[www.duodoo.tech](多度科技官网)
 
@@ -33,14 +33,14 @@
 
 ##### 介绍
 
-../duodoo-user-manual/10-愿景       [介绍DuodooTEKr的核心价值]
+../duodoo-user-manual/10-愿景         介绍DuodooTEKr开源的核心价值
 
-../duodoo-user-manual/11-官方资源    [官方网站、下载地址、技术文档]
+../duodoo-user-manual/11-官方资源     官方网站、下载地址、技术文档
 
-../duodoo-user-manual/12-用户手册    [详细介绍如何使用DuodooTEKr]
+../duodoo-user-manual/12-用户手册     详细介绍如何使用DuodooTEKr
 
-../duodoo-user-manual/13-行业方案    [展示DuodooTEKr在不同行业的应用案例]
+../duodoo-user-manual/13-行业方案     展示DuodooTEKr在不同行业的应用案例
 
-../duodoo-user-manual/14-客户案例    [展示DuodooTEKr在实际项目中的成功案例]
+../duodoo-user-manual/14-客户案例     展示DuodooTEKr在实际项目中的成功案例
 
-../duodoo-user-manual/15-技术资料   如API文档、开发指南 [提供技术支持和开发资源]
+../duodoo-user-manual/15-技术资料     如API文档、开发指南 提供技术支持和开发资源
