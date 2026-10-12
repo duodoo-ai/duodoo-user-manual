@@ -1,65 +1,46 @@
-【开发笔记】Ubuntu 24.04+Odoo18+Vue配置前后端分离访问，测试通过！！
+【开发笔记】Ubuntu 24.04 + Odoo 18 + Vue 前后端分离访问（结构示例）
+
+> 以下为**脱敏示例**：密码、本机路径、生产库名请按部署环境替换，**勿将真实凭据提交公开仓库**。
+
 ---
 
-#### 联系作者： 微信号 odoo10   手机 18951631470  邮件 zou.jason@qq.com
+#### 技术支持：zou.jason@qq.com · 微信 duodoo2018 · https://www.duodoo.tech
+
 ---
-配置文件：
-[options]
-; 强制使用数据库会话存储
-; 使用文件会话存储（因为我们现在自定义了数据库存储）
-session_store = file    ; 确保使用文件存储
-session_type = file     ; 确保使用文件存储
-session_storage = db      ; 确保使用数据库存储
 
-; 确保基础模块正确加载
-init = base,web
+配置文件片段 `[options]`：
 
-; 会话超时设置（秒）
-session_timeout = 86400  ; 24小时
+```ini
+session_store = file
+session_type = file
+session_timeout = 86400
 
-admin_passwd = 1234qwer     ; 管理员密码
-addons_path = /home/jason/app/odoo18/src/addons, /home/jason/app/odoo18/src/odoo/addons, duodoo-tekr-flexo
+admin_passwd = <管理员主密码，部署时设置>
+addons_path = <odoo_addons路径>, <自定义模块路径>
 
-db_host = 127.0.0.1 ; 实际数据库主机地址
-db_name = false ; 实际数据库名称
-db_password = 1234qwer    ; 实际数据库密码
-db_port = 5432      ; 实际数据库端口
-db_user = odoo  ; odoo ; 实际数据库用户名
-data_dir = /home/jason/app/runtime/odoo18_cert
-dbfilter=flexo_pipeline ; 重点的重点，只加载指定的数据库，其他的数据库加载会导致接口报错
+db_host = 127.0.0.1
+db_name = false
+db_password = <数据库密码>
+db_port = 5432
+db_user = odoo
+data_dir = <filestore目录>
+dbfilter = <仅加载的目标库名>
 
-; 启用调试模式
-debug_mode = True
-
-xmlrpc_port = 3000  ; 确保与前端的XML-RPC端口匹配
-cors_origins = *  # 明确指定允许的源
-csrf_origin_check = False   ; 禁用 CSRF 保护（仅对 API 路由）
+xmlrpc_port = 3000
+cors_origins = *
+csrf_origin_check = False
 
 limit_memory_hard = 12000000000
 limit_memory_soft = 12000000000
 limit_request = 8192
 limit_time_real = 99999
 
-;创建新数据库时使⽤的数据库模板
 db_template = template0
-
-temp_path = /home/jason/app/runtime/temp_path
-attachment_path = /home/jason/app/runtime/attachment_path
+temp_path = <临时目录>
+attachment_path = <附件目录>
 wkhtmltopdf_path = /usr/bin/wkhtmltopdf
 
-auth_admin_passkey_password = admin@098iop
+log_level = info
+```
 
-; 日志配置 - 合并所有 log_handler 到一行
-log_level = debug            ; 调试级别
-log_handler = :DEBUG,oak_project:DEBUG,oak_core:DEBUG
-; logfile = /home/jason/app/odoo18/log/odoo-server.log
-; logrotate = True
-
-
-
-geoip_city_db = False         ; 禁用 GeoIP 城市数据库
-geoip_country_db = False        ; 禁用 GeoIP 国家数据库
-geoip_proxy_db = False         ; 禁用 GeoIP 代理数据库
-geoip_database_path = /usr/share/GeoIP      ; GeoIP 数据库路径
-
-
+说明：`dbfilter` 仅加载指定库，避免多库环境下接口路由异常。调试项（如 `debug_mode`）生产环境请关闭。
