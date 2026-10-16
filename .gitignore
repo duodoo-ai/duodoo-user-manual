@@ -137,7 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# 涉密 · 仅本机维护，不进公开 Git
+# Local-only paths (not published in this repository)
 PY供水系统接口文档_V2.0/
 PY供水系统部署文档/
 涉密-管线技术资料-仅本机/

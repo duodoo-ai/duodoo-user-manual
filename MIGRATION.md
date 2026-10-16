@@ -2,8 +2,6 @@
 
 **Repo:** `duodoo-ai/duodoo-handbook` · [GitHub](https://github.com/duodoo-ai/duodoo-handbook) · [Gitee](https://gitee.com/duodoo-ai/duodoo-handbook)
 
-**Local path:** `odoo18/duodoo-handbook`
-
 ## Layout (2026-10)
 
 ```text
@@ -28,7 +26,7 @@ MIGRATION.md
 
 GitHub 对重命名 commit 可能保留短期重定向；外链请改用 `zh/` 或 `en/` 前缀。
 
-**涉密（不进 Git）**：`PY供水系统*`、`涉密-管线技术资料-仅本机/`（含原 `zh/14-技术资料/管线API文档` 与整体架构图）。
+Some integration materials are provided under project engagement and are not hosted in this public repository.
 
 **Remote**：
 

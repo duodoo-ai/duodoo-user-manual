@@ -25,4 +25,4 @@ WeChat (**duodoo2018**) is widely used for **China-based** collaboration; for En
 
 ---
 
-Company brand on English channels: **DuodooTekr**. Legal entity name appears on contracts and official documents when required.
+**DuodooTekr** · Duodoo Information Technology (Nanjing) Co., Ltd.

@@ -1,15 +1,10 @@
 # 16 · 专栏与发布
 
-**English column (framework):** [en/16-articles/README.md](../../en/16-articles/README.md)
+**English column:** [en/16-articles/README.md](../../en/16-articles/README.md)
 
-已在公域平台发布的 **定稿长文**（脱敏）。面向 ERP 选型、分期验收、出海实施等场景引流。
+专栏「工贸 ERP · 分期与验收」及延伸阅读，面向 ERP 选型、分期验收与出海实施读者。
 
-| 项 | 说明 |
-|----|------|
-| **命名** | `NN-主题钩子句.md` · **NN** = 专栏内阅读顺序；文件名与平台标题一致，便于搜索 |
-| **同步** | 平台首发确认后更新本目录 |
-
-联系与商务边界见 [15-服务与联系](../15-服务与联系/README.md)。
+联系与商务说明见 [15-服务与联系](../15-服务与联系/README.md)。
 
 ---
 
@@ -22,4 +17,4 @@
 
 阅读顺序：**01 → 02**（后续篇目发布后在本表追加）。
 
-**English (handbook rewrite):** [01 EN](../../en/16-articles/01-19-years-in-IT-why-phase-1-ERP-projects-fail.md) · [02 EN](../../en/16-articles/02-scope-creep-in-phase-1-is-how-erp-fails.md)
+**English (handbook):** [01 EN](../../en/16-articles/01-19-years-in-IT-why-phase-1-ERP-projects-fail.md) · [02 EN](../../en/16-articles/02-scope-creep-in-phase-1-is-how-erp-fails.md)

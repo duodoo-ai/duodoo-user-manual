@@ -53,7 +53,7 @@ Pure trading: focus on the first rows. With a shop floor: read the later rows ca
 
 Branded ERP, annual suites, or Odoo: **draw phase 1 and 2 first, then estimate effort.** “All-in phase 1” often costs more later—I have seen modest phase-1 budgets balloon into seven-figure rework because immature scope was forced in. That is a **project boundary** problem, not a logo problem.
 
-### 4. Overseas site: how we defined acceptance (sanitized)
+### 4. Overseas site: how we defined acceptance
 
 A manufacturing entity started operations abroad while HQ pushed for speed. We insisted: **sign-off only for inventory + core finance + HR attendance + departmental UAT**; manufacturing depth and costing stayed in a phase-2 appendix.
 
