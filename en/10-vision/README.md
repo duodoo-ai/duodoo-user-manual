@@ -22,7 +22,7 @@
 
 ## Related (Chinese)
 
-Full company narrative (Chinese): [多度科技 · 以开源之力驱动企业数字化转型](../../zh/10-项目愿景/多度科技-以开源之力驱动企业数字化转型.md).
+Full company narrative (Chinese): [zh/10-项目愿景/README.md](../../zh/10-项目愿景/README.md).
 
 ---
 
