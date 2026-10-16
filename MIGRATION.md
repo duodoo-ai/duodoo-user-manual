@@ -2,24 +2,23 @@
 
 | 原仓库 | 现仓库 |
 |--------|--------|
-| `duodoo-ai/duodoo-user-manual`（GitHub） | **`duodoo-ai/extra-user-manual`**（请在 GitHub **新建**或 **Rename** 旧仓） |
-| `duodoo-ai/zoodoo-user-manual`（Gitee，历史拼写） | **`duodoo-ai/extra-user-manual`**（已推送 `master`） |
+| `duodoo-ai/duodoo-user-manual`（GitHub） | [**`duodoo-ai/extra-user-manual`**](https://github.com/duodoo-ai/extra-user-manual) |
+| `duodoo-ai/zoodoo-user-manual`（Gitee，历史拼写） | [**`duodoo-ai/extra-user-manual`**](https://gitee.com/duodoo-ai/extra-user-manual) |
 
 **本机路径**：`odoo18/extra-user-manual`（已删除 `odoo18/duodoo-user-manual`）。
 
 **Remote（维护者）**：
 
-| 名称 | URL | 用途 |
-|------|-----|------|
-| `gitee` | `git@gitee.com:duodoo-ai/extra-user-manual.git` | 主跟踪 `master` |
-| `github` | `git@github.com:duodoo-ai/extra-user-manual.git` | 建仓后 `git push github master` |
-| `github-duodoo` | `git@github.com:duodoo-ai/duodoo-user-manual.git` | 过渡：合并内容已推，可在 GitHub 将仓库 **Rename** 为 `extra-user-manual` 后删此 remote |
-| `gitee-legacy` | `zoodoo-user-manual` | 可删 remote，历史已迁 |
+| 名称 | URL |
+|------|-----|
+| `github` | `git@github.com:duodoo-ai/extra-user-manual.git` |
+| `gitee` | `git@gitee.com:duodoo-ai/extra-user-manual.git` |
 
-**本目录** `odoo18/extra-user-manual` 为唯一维护入口，包含：
+日常：`git push github master && git push gitee master`（`master` 可跟踪 `github/master` 或 `gitee/master` 任选其一）。
 
-- DuodooTEKr 公开手册（10～17 编号目录）
-- PY 供水系统接口与部署文档
+**专栏长文**仅使用目录 `17-专栏与发布长文/`（已删除废弃的 `16-母稿/`）。
+
+**本目录**包含：DuodooTEKr 公开手册（10～17）+ PY 供水系统接口与部署文档。
 
 旧克隆请改 remote：
 
