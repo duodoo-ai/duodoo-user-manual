@@ -1,6 +1,6 @@
 # 服务与联系
 
-**English:** [en/15-contact/README.md](../en/15-contact/README.md)
+**English:** [en/15-contact/README.md](../../en/15-contact/README.md)
 
 **多度科技**（多度信息科技（南京）有限公司）— 远现场物联与 Odoo 企业数字化；开源与手册可查部分可直接验证，其余按项目定制。英文品牌 **DuodooTekr**。公开文档使用公司品牌与下列联系方式，**不写个人法定姓名**。
 

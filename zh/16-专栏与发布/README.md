@@ -1,6 +1,6 @@
 # 16 · 专栏与发布
 
-**English column (framework):** [en/16-articles/README.md](../en/16-articles/README.md)
+**English column (framework):** [en/16-articles/README.md](../../en/16-articles/README.md)
 
 已在公域平台发布的 **定稿长文**（脱敏）。面向 ERP 选型、分期验收、出海实施等场景引流。
 
@@ -21,3 +21,5 @@
 | **02** | [【边界】「一期」塞太多，不是省钱，是烂尾的开始](./02-边界-一期塞太多不是省钱是烂尾的开始.md) | 已发 |
 
 阅读顺序：**01 → 02**（后续篇目发布后在本表追加）。
+
+**English (handbook rewrite):** [01 EN](../../en/16-articles/01-19-years-in-IT-why-phase-1-ERP-projects-fail.md) · [02 EN](../../en/16-articles/02-scope-creep-in-phase-1-is-how-erp-fails.md)

@@ -6,13 +6,13 @@
 |---------|-------|
 | https://www.duodoo.tech | zou.jason@qq.com |
 
-**中文总索引**：[README.md](./README.md)
+**中文手册**：[zh/README.md](./zh/README.md) · **Language hub**：[README.md](./README.md)
 
-Public documentation for due diligence and delivery: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
+Public documentation: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
 
 ---
 
-## English platform (sections 10 · 15 · 16)
+## English platform (10 · 15 · 16)
 
 Full navigation: **[en/README.md](./en/README.md)**
 
@@ -22,7 +22,7 @@ Full navigation: **[en/README.md](./en/README.md)**
 | **15** | Services & contact | [en/15-contact/](./en/15-contact/) |
 | **16** | Published articles | [en/16-articles/](./en/16-articles/) |
 
-Sections **11–14** (official resources, product manuals, industry solutions, technical API docs) are maintained in **Chinese** at the repository root. See the Chinese README for links.
+Sections **11–14** (resources, manuals, solutions, APIs) are under **[zh/](./zh/)** in Chinese until English versions are published.
 
 ---
 

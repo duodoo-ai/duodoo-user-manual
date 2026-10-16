@@ -21,7 +21,7 @@ WeChat (**duodoo2018**) is widely used for **China-based** collaboration; for En
 ## Public handbook
 
 - English hub: [en/README.md](../README.md)  
-- Chinese sections (manuals, APIs, industry papers): [README.md](../../README.md)  
+- Chinese sections (manuals, APIs, industry papers): [zh/README.md](../../zh/README.md)  
 
 ---
 
