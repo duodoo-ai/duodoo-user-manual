@@ -1,13 +1,13 @@
-# 仓库说明
+# Repository notes / 仓库说明
 
-**仓库**：`duodoo-ai/duodoo-handbook` · [GitHub](https://github.com/duodoo-ai/duodoo-handbook) · [Gitee](https://gitee.com/duodoo-ai/duodoo-handbook)
+**Repo:** `duodoo-ai/duodoo-handbook` · [GitHub](https://github.com/duodoo-ai/duodoo-handbook) · [Gitee](https://gitee.com/duodoo-ai/duodoo-handbook)
 
-**本机路径**：`odoo18/duodoo-handbook`
+**Local path:** `odoo18/duodoo-handbook`
 
-## 当前目录（2026-10）
+## Layout (2026-10)
 
 ```text
-README.md          # 语言枢纽（中文 / English）
+README.md          # English homepage (international default)
 zh/                # 中文板块 10–16
 en/                # 英文板块（当前 10 / 15 / 16）
 GLOBALIZATION.md

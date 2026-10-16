@@ -1,6 +1,6 @@
 # DuodooTekr Handbook · English
 
-[← Repository home](../README.md) · **中文** [zh/README.md](../zh/README.md)
+[Homepage](../README.md) · **中文** [zh/README.md](../zh/README.md)
 
 **Duodoo Information Technology (Nanjing) Co., Ltd.** — **remote IoT for water and pump assets** and **Odoo-based digital operations** for manufacturing and cross-border trade.
 

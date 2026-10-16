@@ -1,6 +1,8 @@
 # DuodooTEKr 公开手册 · 中文
 
-[← 仓库首页](../README.md) · **English** [en/README.md](../en/README.md)
+[English homepage](../README.md) · [English docs](../en/README.md)
+
+> 中文完整手册在本页；国际用户默认从仓库根目录英文首页进入。
 
 多度信息科技（南京）有限公司 · 江苏省广东商会理事单位
 
