@@ -1,0 +1,35 @@
+---
+description: Git commit messages prefer English (Conventional Commits)
+alwaysApply: true
+---
+
+# Git commit messages · English preferred
+
+For **duodoo-handbook** (public docs on GitHub/Gitee), use **English** for the commit subject and preferably the body.
+
+## Format
+
+```bash
+git commit -m "$(cat <<'EOF'
+<type>(<scope>): <short summary in English>
+
+Optional: one or two lines on why, in English.
+EOF
+)"
+```
+
+## Examples
+
+- `docs(column): publish M1-B phase-1 vs phase-2 staging table (zh/16)`
+- `docs(vision): merge zh/10 vision into single README`
+- `docs: strip internal ops wording from GLOBALIZATION and columns`
+
+## Scopes
+
+`column`, `zh`, `en`, `vision`, `migration`, `readme` — keep lowercase, hyphenate multi-word scopes if needed.
+
+## Remotes
+
+Push **both** `gitee master` and `github master` when the user asks for full publish (see workspace `git-commit-push` for ningzhuhui sibling repos).
+
+WarRoom private drafts sync separately; handbook commits describe **public** changes only.
