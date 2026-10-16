@@ -1,25 +1,29 @@
-# DuodooTEKr Handbook (Public)
+# DuodooTekr Handbook (English)
 
-Duodoo Information Technology (Nanjing) Co., Ltd.
+**Duodoo Information Technology (Nanjing) Co., Ltd.**
 
-> **Index in Chinese**: [README.md](./README.md)
+| Website | Email |
+|---------|-------|
+| https://www.duodoo.tech | zou.jason@qq.com |
 
-| Site | Email | WeChat |
-|------|-------|--------|
-| https://www.duodoo.tech | zou.jason@qq.com | duodoo2018 |
+**中文总索引**：[README.md](./README.md)
 
-Repo: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
+Public documentation for due diligence and delivery: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
 
-## Platform layout (10 → 16)
+---
 
-| # | Section | Path |
+## English platform (sections 10 · 15 · 16)
+
+Full navigation: **[en/README.md](./en/README.md)**
+
+| # | Section | Link |
 |---|---------|------|
-| 10 | Vision | [10-项目愿景/](./10-项目愿景/) |
-| 11 | Official resources | [11-官方资源/](./11-官方资源/) |
-| 12 | Product manuals | [12-用户手册/](./12-用户手册/) |
-| 13 | Industry solutions | [13-行业方案/](./13-行业方案/) |
-| 14 | Technical docs | [14-技术资料/](./14-技术资料/) |
-| 15 | Services & contact | [15-服务与联系/](./15-服务与联系/) |
-| 16 | Published articles | [16-专栏与发布/](./16-专栏与发布/) |
+| **10** | Vision & company | [en/10-vision/](./en/10-vision/) |
+| **15** | Services & contact | [en/15-contact/](./en/15-contact/) |
+| **16** | Published articles | [en/16-articles/](./en/16-articles/) |
 
-Migration notes: [MIGRATION.md](./MIGRATION.md).
+Sections **11–14** (official resources, product manuals, industry solutions, technical API docs) are maintained in **Chinese** at the repository root. See the Chinese README for links.
+
+---
+
+**Governance:** [GLOBALIZATION.md](./GLOBALIZATION.md) · **Migration:** [MIGRATION.md](./MIGRATION.md)

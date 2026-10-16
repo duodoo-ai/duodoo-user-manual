@@ -1,5 +1,7 @@
 # 16 · 专栏与发布
 
+**English column (framework):** [en/16-articles/README.md](../en/16-articles/README.md)
+
 已在公域平台发布的 **定稿长文**（脱敏）。面向 ERP 选型、分期验收、出海实施等场景引流。
 
 | 项 | 说明 |
