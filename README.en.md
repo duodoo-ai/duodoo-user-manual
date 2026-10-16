@@ -19,7 +19,7 @@ Repo: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
 | 12 | Product manuals | [12-用户手册/](./12-用户手册/) |
 | 13 | Industry solutions | [13-行业方案/](./13-行业方案/) |
 | 14 | Technical docs | [14-技术资料/](./14-技术资料/) |
-| 15 | Services & contact | [15-服务与联系.md](./15-服务与联系.md) |
+| 15 | Services & contact | [15-服务与联系/](./15-服务与联系/) |
 | 16 | Published articles | [16-专栏与发布/](./16-专栏与发布/) |
 
 Migration notes: [MIGRATION.md](./MIGRATION.md).
