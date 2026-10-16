@@ -1,29 +1,16 @@
-# 公开手册仓库说明
+# 仓库说明
 
-**当前权威名**：`duodoo-ai/duodoo-handbook`（全小写、连字符、无驼峰）
-
-| 平台 | URL |
-|------|-----|
-| GitHub | https://github.com/duodoo-ai/duodoo-handbook |
-| Gitee | https://gitee.com/duodoo-ai/duodoo-handbook |
+**仓库**：`duodoo-ai/duodoo-handbook` · [GitHub](https://github.com/duodoo-ai/duodoo-handbook) · [Gitee](https://gitee.com/duodoo-ai/duodoo-handbook)
 
 **本机路径**：`odoo18/duodoo-handbook`
+
+**目录编号**：`10` 愿景 → `11` 官方 → `12` 手册 → `13` 方案 → `14` 技术 → `15` 联系 → `16` 专栏（连续编号，便于交付导航）。
 
 **Remote**：
 
 ```bash
-github  git@github.com:duodoo-ai/duodoo-handbook.git
-gitee   git@gitee.com:duodoo-ai/duodoo-handbook.git
+git@github.com:duodoo-ai/duodoo-handbook.git
+git@gitee.com:duodoo-ai/duodoo-handbook.git
 ```
 
-日常：`git push github master && git push gitee master`
-
-**历史仓库名**（已废弃）：`duodoo-user-manual`、`extra-user-manual`、`handbook`、`zoodoo-user-manual`。
-
-**涉密**：`PY供水系统接口文档_V2.0/`、`PY供水系统部署文档/` 仅本机，见 `.gitignore`。
-
-旧克隆：
-
-```bash
-git remote set-url origin git@github.com:duodoo-ai/duodoo-handbook.git
-```
+历史仓库名（已废弃）：`duodoo-user-manual`、`extra-user-manual`、`handbook`、`zoodoo-user-manual`。
