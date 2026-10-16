@@ -1,28 +1,29 @@
-# 仓库合并说明（2026-10-16）
+# 公开手册仓库说明
 
-| 原仓库 | 现仓库 |
-|--------|--------|
-| `duodoo-ai/duodoo-user-manual`（GitHub） | [**`duodoo-ai/extra-user-manual`**](https://github.com/duodoo-ai/extra-user-manual) |
-| `duodoo-ai/zoodoo-user-manual`（Gitee，历史拼写） | [**`duodoo-ai/extra-user-manual`**](https://gitee.com/duodoo-ai/extra-user-manual) |
+**当前权威名**：`duodoo-ai/handbook`（全小写、无驼峰）
 
-**本机路径**：`odoo18/extra-user-manual`（已删除 `odoo18/duodoo-user-manual`）。
-
-**Remote（维护者）**：
-
-| 名称 | URL |
+| 平台 | URL |
 |------|-----|
-| `github` | `git@github.com:duodoo-ai/extra-user-manual.git` |
-| `gitee` | `git@gitee.com:duodoo-ai/extra-user-manual.git` |
+| GitHub | https://github.com/duodoo-ai/handbook |
+| Gitee | https://gitee.com/duodoo-ai/handbook |
 
-日常：`git push github master && git push gitee master`（`master` 可跟踪 `github/master` 或 `gitee/master` 任选其一）。
+**本机路径**：`odoo18/handbook`
 
-**专栏长文**仅使用目录 `17-专栏与发布长文/`（已删除废弃的 `16-母稿/`）。
-
-**本目录**公开部分：DuodooTEKr 手册（10～17）。**PY 供水接口/部署文档涉密**，仅本机目录 + `.gitignore`，不进 Git。
-
-旧克隆请改 remote：
+**Remote**：
 
 ```bash
-git remote set-url origin git@github.com:duodoo-ai/extra-user-manual.git
-git remote add gitee git@gitee.com:duodoo-ai/extra-user-manual.git   # 可选
+github  git@github.com:duodoo-ai/handbook.git
+gitee   git@gitee.com:duodoo-ai/handbook.git
+```
+
+日常：`git push github master && git push gitee master`
+
+**历史仓库名**（均已废弃，请在平台上 Rename 或归档）：`duodoo-user-manual`、`extra-user-manual`、`zoodoo-user-manual`。
+
+**涉密**：`PY供水系统接口文档_V2.0/`、`PY供水系统部署文档/` 仅本机，见 `.gitignore`。
+
+旧克隆：
+
+```bash
+git remote set-url origin git@github.com:duodoo-ai/handbook.git
 ```
